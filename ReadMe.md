@@ -2,7 +2,7 @@
 
 Huge **US Stocks prices + 1292 columns extra data** from Indicators. This Dataset provides historical Open, High, Low, Close, and Volume (OHLCV) **prices** of stocks traded in the United States financial markets AND calculated 1292 columns of indicators. You can use all this hyge data for stock price predictions.
 
-Here is the link to kaggle dataset [Huge US 514 Stocks + 1298 columns Market Data 25Gb](https://www.kaggle.com/datasets/olegshpagin/extra-us-stocks-market-data) (weekly updates)
+Here is the link to kaggle dataset [Huge US 514 Stocks + 1298 columns Market Data 25Gb](https://www.kaggle.com/datasets/olegshpagin/extra-us-stocks-market-data) (quarterly updates by requests in comments)
 
 ### ~25 Gb of market data for you and your analysis with NN or other methods 
 
